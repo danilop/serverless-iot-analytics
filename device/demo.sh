@@ -1,0 +1,1 @@
+python demo.py -e <ENDPOINT> -r <ROOT-CA> -c <DEVICE_CERTIFICATE> -k <DEVICE_PRIVATE_KEY>
